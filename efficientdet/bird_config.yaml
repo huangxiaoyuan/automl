@@ -1,0 +1,30 @@
+num_classes: 25
+image_size: 640
+moving_average_decay: 0
+mixed_precision: true
+
+label_map:
+  1: Accipiter nisus
+  2: Arenaria interpres
+  3: Calidris falcinellus
+  4: Calidris tenuirostris
+  5: Calliope calliope
+  6: Centropus sinensis
+  7: Circus spilonotus
+  8: Egetta eulophotes
+  9: Egretta sacra
+  10: Elanus caeruleus
+  11: Falco amurensis
+  12: Falco tinnunculus
+  13: Garrulax canorus
+  14: Halcyon smyrnensis
+  15: Hydrophasianus chirurgus
+  16: Leiothrix argentauris
+  17: Leiothrix lutea
+  18: Limnodromus semipalmatus
+  19: Merops philippinus
+  20: Milvus migrans
+  21: Numenius arquata
+  22: Pandion haliaetus
+  23: Platalea leucorodia
+  24: Platalea minor
